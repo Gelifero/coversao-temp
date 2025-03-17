@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-float celsius;
+float celsius;//temp
 float fahrenheit;
 printf("Quanto esta medindo a temperatura em graus celsius:");
 scanf("%f", &celsius);
